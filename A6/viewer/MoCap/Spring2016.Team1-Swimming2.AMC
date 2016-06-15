@@ -1,0 +1,13053 @@
+#!OML:ASF C:\ViconDB\ViconDB\414\Spring2016\041811\Spring2016.ASF
+:FULLY-SPECIFIED
+:DEGREES
+1
+root 0 0 0 0 -0 0
+lowerback 0 -0 0
+upperback 0 -0 0
+thorax 0 -0 0
+lowerneck 0 -0 0
+upperneck 0 -0 0
+head 0 -0 0
+rclavicle 0 -0
+rhumerus 0 -0 0
+rradius 0
+rwrist 0
+rhand -0 0
+rfingers 0
+rthumb -0 0
+lclavicle 0 -0
+lhumerus 0 -0 0
+lradius 0
+lwrist 0
+lhand -0 0
+lfingers 0
+lthumb -0 0
+rfemur 0 -0 0
+rtibia 0
+rfoot -0 0
+rtoes 0
+lfemur 0 -0 0
+ltibia 0
+lfoot -0 0
+ltoes 0
+2
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+3
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+4
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+5
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+6
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+7
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+8
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+9
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+10
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+11
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+12
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+13
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+14
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+15
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+16
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+17
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+18
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+19
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+20
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+21
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+22
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+23
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+24
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+25
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+26
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+27
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+28
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+29
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+30
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+31
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+32
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+33
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+34
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+35
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+36
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+37
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+38
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+39
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+40
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+41
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+42
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+43
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+44
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+45
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+46
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+47
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+48
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+49
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+50
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+51
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+52
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+53
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+54
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+55
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+56
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+57
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+58
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+59
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+60
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+61
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+62
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+63
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+64
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+65
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+66
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+67
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+68
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+69
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+70
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+71
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+72
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+73
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+74
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+75
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+76
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+77
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+78
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+79
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+80
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+81
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+82
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+83
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+84
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+85
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+86
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+87
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+88
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+89
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+90
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+91
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+92
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+93
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+94
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+95
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+96
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+97
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+98
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+99
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+100
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+101
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+102
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+103
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+104
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+105
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+106
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+107
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+108
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+109
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+110
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+111
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+112
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+113
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+114
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+115
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+116
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+117
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+118
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+119
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+120
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+121
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+122
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+123
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+124
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+125
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+126
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+127
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+128
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+129
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+130
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+131
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+132
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+133
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+134
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+135
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+136
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+137
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+138
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+139
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+140
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+141
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+142
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+143
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+144
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+145
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+146
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+147
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+148
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+149
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+150
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+151
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+152
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+153
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+154
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+155
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+156
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+157
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+158
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+159
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+160
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+161
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+162
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+163
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+164
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+165
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+166
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+167
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+168
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+169
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+170
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+171
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+172
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+173
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+174
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+175
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+176
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+177
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+178
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+179
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+180
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+181
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+182
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+183
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+184
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+185
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+186
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+187
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+188
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+189
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+190
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+191
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+192
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+193
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+194
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+195
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+196
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+197
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+198
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+199
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+200
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+201
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+202
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+203
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+204
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+205
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+206
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+207
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+208
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+209
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+210
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+211
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+212
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+213
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+214
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+215
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+216
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+217
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+218
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+219
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+220
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+221
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+222
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+223
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+224
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+225
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+226
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+227
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+228
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+229
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+230
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+231
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+232
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+233
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+234
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+235
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+236
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+237
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+238
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+239
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+240
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+241
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+242
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+243
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+244
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+245
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+246
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+247
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+248
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+249
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+250
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+251
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+252
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+253
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+254
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+255
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+256
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+257
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+258
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+259
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+260
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+261
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+262
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+263
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+264
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+265
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+266
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+267
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+268
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+269
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+270
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+271
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+272
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+273
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+274
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+275
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+276
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+277
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+278
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+279
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+280
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+281
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+282
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+283
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+284
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+285
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+286
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+287
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+288
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+289
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+290
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+291
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+292
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+293
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+294
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+295
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+296
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+297
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+298
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+299
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+300
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+301
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+302
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+303
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+304
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+305
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+306
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+307
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+308
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+309
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+310
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+311
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+312
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+313
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+314
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+315
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+316
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+317
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+318
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+319
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+320
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+321
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+322
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+323
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+324
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+325
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+326
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+327
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+328
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+329
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+330
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+331
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+332
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+333
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+334
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+335
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+336
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+337
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+338
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+339
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+340
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+341
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+342
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+343
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+344
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+345
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+346
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+347
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+348
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+349
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+350
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+351
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+352
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+353
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+354
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+355
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+356
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+357
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+358
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+359
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+360
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+361
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+362
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+363
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+364
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+365
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+366
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+367
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+368
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+369
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+370
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+371
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+372
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+373
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+374
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+375
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+376
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+377
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+378
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+379
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+380
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+381
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+382
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+383
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+384
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+385
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+386
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+387
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+388
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+389
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+390
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+391
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+392
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+393
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+394
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+395
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+396
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+397
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+398
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+399
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+400
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+401
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+402
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+403
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+404
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+405
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+406
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+407
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+408
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+409
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+410
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+411
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+412
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+413
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+414
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+415
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+416
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+417
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+418
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+419
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+420
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+421
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+422
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+423
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+424
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+425
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+426
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+427
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+428
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+429
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+430
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+431
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+432
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+433
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+434
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0
+435
+root 0 0 0 0 0 0
+lowerback 0 0 0
+upperback 0 0 0
+thorax 0 0 0
+lowerneck 0 0 0
+upperneck 0 0 0
+head 0 0 0
+rclavicle 0 0
+rhumerus 0 0 0
+rradius 0
+rwrist 0
+rhand 0 0
+rfingers 0
+rthumb 0 0
+lclavicle 0 0
+lhumerus 0 0 0
+lradius 0
+lwrist 0
+lhand 0 0
+lfingers 0
+lthumb 0 0
+rfemur 0 0 0
+rtibia 0
+rfoot 0 0
+rtoes 0
+lfemur 0 0 0
+ltibia 0
+lfoot 0 0
+ltoes 0

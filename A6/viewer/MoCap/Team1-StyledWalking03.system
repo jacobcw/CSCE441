@@ -1,0 +1,802 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no" ?>
+<ParamStore>
+
+  <ParamDefinitionList name="Capture">
+    <ParamListGroup name="">
+      <ParamList name="default">
+        <Param name="BufferRangeInSeconds" value="225.29"/>
+        <Param name="BufferLatencyInSeconds" value="0"/>
+        <Param name="MeasuredFrameRate" value="100"/>
+        <Param name="FramesCaptured" value="444"/>
+        <Param name="FramesDropped" value="0"/>
+        <Param name="ErrorString" value=""/>
+        <Param name="ArmedStatus" value="0"/>
+        <Param name="TimeCapturedString" value=""/>
+        <Param name="LowDiskSpace"/>
+      </ParamList>
+    </ParamListGroup>
+  </ParamDefinitionList>
+
+  <ParamDefinitionList name="MXCamera">
+    <ParamListGroup name="">
+      <ParamList name="8356">
+        <Param name="Name" value=""/>
+        <Param name="Id" value="8356"/>
+        <Param name="UserId" value="11"/>
+        <Param name="Enabled" value="1"/>
+        <Param name="Strobe" value="1"/>
+        <Param name="Threshold" value="0.5"/>
+        <Param name="Gain" value="1"/>
+        <Param name="Greyscale" value="0"/>
+        <Param name="EnableWindowedFrameRates" value="1"/>
+        <Param name="CentroidTrackingEnable" value="0"/>
+        <Param name="CentroidTrackingMarkerVelocity" value="5"/>
+        <Param name="Focus" value="0"/>
+        <Param name="Aperture" value="0.5"/>
+        <Param name="Zoom" value="2.122e-314"/>
+        <Param name="Pan" value="0.5"/>
+        <Param name="Tilt" value="0.5"/>
+        <Param name="Connected" value="1"/>
+        <Param name="SyncMaster" value="0"/>
+        <Param name="Warning" value=""/>
+        <Param name="ContributingCentroids" value="1"/>
+        <Param name="ContributingGreyscale" value="1"/>
+        <Param name="ContributingTracks" value="0"/>
+        <Param name="Type" value="Mx-F20"/>
+        <Param name="DisplayType" value="MX F20"/>
+        <Param name="StrobeType" value="Near IR"/>
+        <Param name="StrobeTemperature" value="0"/>
+        <Param name="SensorWidth" value="1600"/>
+        <Param name="SensorHeight" value="1280"/>
+        <Param name="Revision" value="1"/>
+        <Param name="MACAddress" value="00:00:37:00:20:a4"/>
+        <Param name="IPAddress" value="192.168.10.23"/>
+        <Param name="StreamDestinationAddress" value="Default"/>
+        <Param name="StreamDestinationAddressCheck" value="1"/>
+        <Param name="FirmwareVersion" value="79"/>
+        <Param name="FirmwareComplete" value="1"/>
+        <Param name="BackFocus" value="0"/>
+        <Param name="MinRatio" value="0.5"/>
+        <Param name="MaxPixelsPerLineToCircleFit" value="50"/>
+        <Param name="VideoCalibrationReady" value="0"/>
+        <Param name="ThresholdTableMode" value="2"/>
+        <Param name="EnableLEDs" value="1"/>
+        <Param name="ResetCalibration" value="0"/>
+        <Param name="FocalLength" value="0.00855565"/>
+        <Param name="RadialParam1" value="0.240117"/>
+        <Param name="RadialParam2" value="-0.295801"/>
+        <Param name="Reboot" value="0"/>
+      </ParamList>
+      <ParamList name="8357">
+        <Param name="Name" value=""/>
+        <Param name="Id" value="8357"/>
+        <Param name="UserId" value="3"/>
+        <Param name="Enabled" value="1"/>
+        <Param name="Strobe" value="1"/>
+        <Param name="Threshold" value="0.5"/>
+        <Param name="Gain" value="1"/>
+        <Param name="Greyscale" value="0"/>
+        <Param name="EnableWindowedFrameRates" value="1"/>
+        <Param name="CentroidTrackingEnable" value="0"/>
+        <Param name="CentroidTrackingMarkerVelocity" value="5"/>
+        <Param name="Focus" value="0"/>
+        <Param name="Aperture" value="0.5"/>
+        <Param name="Zoom" value="2.122e-314"/>
+        <Param name="Pan" value="0.5"/>
+        <Param name="Tilt" value="0.5"/>
+        <Param name="Connected" value="1"/>
+        <Param name="SyncMaster" value="0"/>
+        <Param name="Warning" value=""/>
+        <Param name="ContributingCentroids" value="1"/>
+        <Param name="ContributingGreyscale" value="1"/>
+        <Param name="ContributingTracks" value="0"/>
+        <Param name="Type" value="Mx-F20"/>
+        <Param name="DisplayType" value="MX F20"/>
+        <Param name="StrobeType" value="Near IR"/>
+        <Param name="StrobeTemperature" value="0"/>
+        <Param name="SensorWidth" value="1600"/>
+        <Param name="SensorHeight" value="1280"/>
+        <Param name="Revision" value="1"/>
+        <Param name="MACAddress" value="00:00:37:00:20:a5"/>
+        <Param name="IPAddress" value="192.168.10.14"/>
+        <Param name="StreamDestinationAddress" value="Default"/>
+        <Param name="StreamDestinationAddressCheck" value="1"/>
+        <Param name="FirmwareVersion" value="79"/>
+        <Param name="FirmwareComplete" value="1"/>
+        <Param name="BackFocus" value="0"/>
+        <Param name="MinRatio" value="0.5"/>
+        <Param name="MaxPixelsPerLineToCircleFit" value="50"/>
+        <Param name="VideoCalibrationReady" value="0"/>
+        <Param name="ThresholdTableMode" value="2"/>
+        <Param name="EnableLEDs" value="1"/>
+        <Param name="ResetCalibration" value="0"/>
+        <Param name="FocalLength" value="0.00854597"/>
+        <Param name="RadialParam1" value="0.224559"/>
+        <Param name="RadialParam2" value="-0.248799"/>
+        <Param name="Reboot" value="0"/>
+      </ParamList>
+      <ParamList name="8359">
+        <Param name="Name" value=""/>
+        <Param name="Id" value="8359"/>
+        <Param name="UserId" value="10"/>
+        <Param name="Enabled" value="1"/>
+        <Param name="Strobe" value="1"/>
+        <Param name="Threshold" value="0.5"/>
+        <Param name="Gain" value="1"/>
+        <Param name="Greyscale" value="0"/>
+        <Param name="EnableWindowedFrameRates" value="1"/>
+        <Param name="CentroidTrackingEnable" value="0"/>
+        <Param name="CentroidTrackingMarkerVelocity" value="5"/>
+        <Param name="Focus" value="0"/>
+        <Param name="Aperture" value="0.5"/>
+        <Param name="Zoom" value="2.122e-314"/>
+        <Param name="Pan" value="0.5"/>
+        <Param name="Tilt" value="0.5"/>
+        <Param name="Connected" value="1"/>
+        <Param name="SyncMaster" value="0"/>
+        <Param name="Warning" value=""/>
+        <Param name="ContributingCentroids" value="1"/>
+        <Param name="ContributingGreyscale" value="1"/>
+        <Param name="ContributingTracks" value="0"/>
+        <Param name="Type" value="Mx-F20"/>
+        <Param name="DisplayType" value="MX F20"/>
+        <Param name="StrobeType" value="Near IR"/>
+        <Param name="StrobeTemperature" value="0"/>
+        <Param name="SensorWidth" value="1600"/>
+        <Param name="SensorHeight" value="1280"/>
+        <Param name="Revision" value="1"/>
+        <Param name="MACAddress" value="00:00:37:00:20:a7"/>
+        <Param name="IPAddress" value="192.168.10.22"/>
+        <Param name="StreamDestinationAddress" value="Default"/>
+        <Param name="StreamDestinationAddressCheck" value="1"/>
+        <Param name="FirmwareVersion" value="79"/>
+        <Param name="FirmwareComplete" value="1"/>
+        <Param name="BackFocus" value="0"/>
+        <Param name="MinRatio" value="0.5"/>
+        <Param name="MaxPixelsPerLineToCircleFit" value="50"/>
+        <Param name="VideoCalibrationReady" value="0"/>
+        <Param name="ThresholdTableMode" value="2"/>
+        <Param name="EnableLEDs" value="1"/>
+        <Param name="ResetCalibration" value="0"/>
+        <Param name="FocalLength" value="0.00857874"/>
+        <Param name="RadialParam1" value="0.266472"/>
+        <Param name="RadialParam2" value="-0.355208"/>
+        <Param name="Reboot" value="0"/>
+      </ParamList>
+      <ParamList name="8364">
+        <Param name="Name" value=""/>
+        <Param name="Id" value="8364"/>
+        <Param name="UserId" value="5"/>
+        <Param name="Enabled" value="1"/>
+        <Param name="Strobe" value="1"/>
+        <Param name="Threshold" value="0.5"/>
+        <Param name="Gain" value="1"/>
+        <Param name="Greyscale" value="0"/>
+        <Param name="EnableWindowedFrameRates" value="1"/>
+        <Param name="CentroidTrackingEnable" value="0"/>
+        <Param name="CentroidTrackingMarkerVelocity" value="5"/>
+        <Param name="Focus" value="0"/>
+        <Param name="Aperture" value="0.5"/>
+        <Param name="Zoom" value="2.122e-314"/>
+        <Param name="Pan" value="0.5"/>
+        <Param name="Tilt" value="0.5"/>
+        <Param name="Connected" value="1"/>
+        <Param name="SyncMaster" value="0"/>
+        <Param name="Warning" value=""/>
+        <Param name="ContributingCentroids" value="1"/>
+        <Param name="ContributingGreyscale" value="1"/>
+        <Param name="ContributingTracks" value="0"/>
+        <Param name="Type" value="Mx-F20"/>
+        <Param name="DisplayType" value="MX F20"/>
+        <Param name="StrobeType" value="Near IR"/>
+        <Param name="StrobeTemperature" value="0"/>
+        <Param name="SensorWidth" value="1600"/>
+        <Param name="SensorHeight" value="1280"/>
+        <Param name="Revision" value="1"/>
+        <Param name="MACAddress" value="00:00:37:00:20:ac"/>
+        <Param name="IPAddress" value="192.168.10.17"/>
+        <Param name="StreamDestinationAddress" value="Default"/>
+        <Param name="StreamDestinationAddressCheck" value="1"/>
+        <Param name="FirmwareVersion" value="79"/>
+        <Param name="FirmwareComplete" value="1"/>
+        <Param name="BackFocus" value="0"/>
+        <Param name="MinRatio" value="0.5"/>
+        <Param name="MaxPixelsPerLineToCircleFit" value="50"/>
+        <Param name="VideoCalibrationReady" value="0"/>
+        <Param name="ThresholdTableMode" value="2"/>
+        <Param name="EnableLEDs" value="1"/>
+        <Param name="ResetCalibration" value="0"/>
+        <Param name="FocalLength" value="0.00855831"/>
+        <Param name="RadialParam1" value="0.221473"/>
+        <Param name="RadialParam2" value="-0.231334"/>
+        <Param name="Reboot" value="0"/>
+      </ParamList>
+      <ParamList name="8365">
+        <Param name="Name" value=""/>
+        <Param name="Id" value="8365"/>
+        <Param name="UserId" value="1"/>
+        <Param name="Enabled" value="1"/>
+        <Param name="Strobe" value="1"/>
+        <Param name="Threshold" value="0.5"/>
+        <Param name="Gain" value="1"/>
+        <Param name="Greyscale" value="0"/>
+        <Param name="EnableWindowedFrameRates" value="1"/>
+        <Param name="CentroidTrackingEnable" value="0"/>
+        <Param name="CentroidTrackingMarkerVelocity" value="5"/>
+        <Param name="Focus" value="0"/>
+        <Param name="Aperture" value="0.5"/>
+        <Param name="Zoom" value="2.122e-314"/>
+        <Param name="Pan" value="0.5"/>
+        <Param name="Tilt" value="0.5"/>
+        <Param name="Connected" value="1"/>
+        <Param name="SyncMaster" value="0"/>
+        <Param name="Warning" value=""/>
+        <Param name="ContributingCentroids" value="1"/>
+        <Param name="ContributingGreyscale" value="1"/>
+        <Param name="ContributingTracks" value="0"/>
+        <Param name="Type" value="Mx-F20"/>
+        <Param name="DisplayType" value="MX F20"/>
+        <Param name="StrobeType" value="Near IR"/>
+        <Param name="StrobeTemperature" value="0"/>
+        <Param name="SensorWidth" value="1600"/>
+        <Param name="SensorHeight" value="1280"/>
+        <Param name="Revision" value="1"/>
+        <Param name="MACAddress" value="00:00:37:00:20:ad"/>
+        <Param name="IPAddress" value="192.168.10.13"/>
+        <Param name="StreamDestinationAddress" value="Default"/>
+        <Param name="StreamDestinationAddressCheck" value="1"/>
+        <Param name="FirmwareVersion" value="79"/>
+        <Param name="FirmwareComplete" value="1"/>
+        <Param name="BackFocus" value="0"/>
+        <Param name="MinRatio" value="0.5"/>
+        <Param name="MaxPixelsPerLineToCircleFit" value="50"/>
+        <Param name="VideoCalibrationReady" value="0"/>
+        <Param name="ThresholdTableMode" value="2"/>
+        <Param name="EnableLEDs" value="1"/>
+        <Param name="ResetCalibration" value="0"/>
+        <Param name="FocalLength" value="0.00856935"/>
+        <Param name="RadialParam1" value="0.201065"/>
+        <Param name="RadialParam2" value="-0.25721"/>
+        <Param name="Reboot" value="0"/>
+      </ParamList>
+      <ParamList name="8366">
+        <Param name="Name" value=""/>
+        <Param name="Id" value="8366"/>
+        <Param name="UserId" value="0"/>
+        <Param name="Enabled" value="1"/>
+        <Param name="Strobe" value="1"/>
+        <Param name="Threshold" value="0.5"/>
+        <Param name="Gain" value="1"/>
+        <Param name="Greyscale" value="0"/>
+        <Param name="EnableWindowedFrameRates" value="1"/>
+        <Param name="CentroidTrackingEnable" value="0"/>
+        <Param name="CentroidTrackingMarkerVelocity" value="5"/>
+        <Param name="Focus" value="0"/>
+        <Param name="Aperture" value="0.5"/>
+        <Param name="Zoom" value="2.122e-314"/>
+        <Param name="Pan" value="0.5"/>
+        <Param name="Tilt" value="0.5"/>
+        <Param name="Connected" value="1"/>
+        <Param name="SyncMaster" value="0"/>
+        <Param name="Warning" value=""/>
+        <Param name="ContributingCentroids" value="1"/>
+        <Param name="ContributingGreyscale" value="1"/>
+        <Param name="ContributingTracks" value="0"/>
+        <Param name="Type" value="Mx-F20"/>
+        <Param name="DisplayType" value="MX F20"/>
+        <Param name="StrobeType" value="Near IR"/>
+        <Param name="StrobeTemperature" value="0"/>
+        <Param name="SensorWidth" value="1600"/>
+        <Param name="SensorHeight" value="1280"/>
+        <Param name="Revision" value="1"/>
+        <Param name="MACAddress" value="00:00:37:00:20:ae"/>
+        <Param name="IPAddress" value="192.168.10.11"/>
+        <Param name="StreamDestinationAddress" value="Default"/>
+        <Param name="StreamDestinationAddressCheck" value="1"/>
+        <Param name="FirmwareVersion" value="79"/>
+        <Param name="FirmwareComplete" value="1"/>
+        <Param name="BackFocus" value="0"/>
+        <Param name="MinRatio" value="0.5"/>
+        <Param name="MaxPixelsPerLineToCircleFit" value="50"/>
+        <Param name="VideoCalibrationReady" value="0"/>
+        <Param name="ThresholdTableMode" value="2"/>
+        <Param name="EnableLEDs" value="1"/>
+        <Param name="ResetCalibration" value="0"/>
+        <Param name="FocalLength" value="0.00852435"/>
+        <Param name="RadialParam1" value="0.233607"/>
+        <Param name="RadialParam2" value="-0.31103"/>
+        <Param name="Reboot" value="0"/>
+      </ParamList>
+      <ParamList name="8369">
+        <Param name="Name" value=""/>
+        <Param name="Id" value="8369"/>
+        <Param name="UserId" value="8"/>
+        <Param name="Enabled" value="1"/>
+        <Param name="Strobe" value="1"/>
+        <Param name="Threshold" value="0.5"/>
+        <Param name="Gain" value="1"/>
+        <Param name="Greyscale" value="0"/>
+        <Param name="EnableWindowedFrameRates" value="1"/>
+        <Param name="CentroidTrackingEnable" value="0"/>
+        <Param name="CentroidTrackingMarkerVelocity" value="5"/>
+        <Param name="Focus" value="0"/>
+        <Param name="Aperture" value="0.5"/>
+        <Param name="Zoom" value="2.122e-314"/>
+        <Param name="Pan" value="0.5"/>
+        <Param name="Tilt" value="0.5"/>
+        <Param name="Connected" value="1"/>
+        <Param name="SyncMaster" value="0"/>
+        <Param name="Warning" value=""/>
+        <Param name="ContributingCentroids" value="1"/>
+        <Param name="ContributingGreyscale" value="1"/>
+        <Param name="ContributingTracks" value="0"/>
+        <Param name="Type" value="Mx-F20"/>
+        <Param name="DisplayType" value="MX F20"/>
+        <Param name="StrobeType" value="Near IR"/>
+        <Param name="StrobeTemperature" value="0"/>
+        <Param name="SensorWidth" value="1600"/>
+        <Param name="SensorHeight" value="1280"/>
+        <Param name="Revision" value="1"/>
+        <Param name="MACAddress" value="00:00:37:00:20:b1"/>
+        <Param name="IPAddress" value="192.168.10.18"/>
+        <Param name="StreamDestinationAddress" value="Default"/>
+        <Param name="StreamDestinationAddressCheck" value="1"/>
+        <Param name="FirmwareVersion" value="79"/>
+        <Param name="FirmwareComplete" value="1"/>
+        <Param name="BackFocus" value="0"/>
+        <Param name="MinRatio" value="0.5"/>
+        <Param name="MaxPixelsPerLineToCircleFit" value="50"/>
+        <Param name="VideoCalibrationReady" value="0"/>
+        <Param name="ThresholdTableMode" value="2"/>
+        <Param name="EnableLEDs" value="1"/>
+        <Param name="ResetCalibration" value="0"/>
+        <Param name="FocalLength" value="0.00856151"/>
+        <Param name="RadialParam1" value="0.215312"/>
+        <Param name="RadialParam2" value="-0.232914"/>
+        <Param name="Reboot" value="0"/>
+      </ParamList>
+      <ParamList name="8372">
+        <Param name="Name" value=""/>
+        <Param name="Id" value="8372"/>
+        <Param name="UserId" value="6"/>
+        <Param name="Enabled" value="1"/>
+        <Param name="Strobe" value="1"/>
+        <Param name="Threshold" value="0.5"/>
+        <Param name="Gain" value="1"/>
+        <Param name="Greyscale" value="0"/>
+        <Param name="EnableWindowedFrameRates" value="1"/>
+        <Param name="CentroidTrackingEnable" value="0"/>
+        <Param name="CentroidTrackingMarkerVelocity" value="5"/>
+        <Param name="Focus" value="0"/>
+        <Param name="Aperture" value="0.5"/>
+        <Param name="Zoom" value="2.122e-314"/>
+        <Param name="Pan" value="0.5"/>
+        <Param name="Tilt" value="0.5"/>
+        <Param name="Connected" value="1"/>
+        <Param name="SyncMaster" value="0"/>
+        <Param name="Warning" value=""/>
+        <Param name="ContributingCentroids" value="1"/>
+        <Param name="ContributingGreyscale" value="1"/>
+        <Param name="ContributingTracks" value="0"/>
+        <Param name="Type" value="Mx-F20"/>
+        <Param name="DisplayType" value="MX F20"/>
+        <Param name="StrobeType" value="Near IR"/>
+        <Param name="StrobeTemperature" value="0"/>
+        <Param name="SensorWidth" value="1600"/>
+        <Param name="SensorHeight" value="1280"/>
+        <Param name="Revision" value="1"/>
+        <Param name="MACAddress" value="00:00:37:00:20:b4"/>
+        <Param name="IPAddress" value="192.168.10.16"/>
+        <Param name="StreamDestinationAddress" value="Default"/>
+        <Param name="StreamDestinationAddressCheck" value="1"/>
+        <Param name="FirmwareVersion" value="79"/>
+        <Param name="FirmwareComplete" value="1"/>
+        <Param name="BackFocus" value="0"/>
+        <Param name="MinRatio" value="0.5"/>
+        <Param name="MaxPixelsPerLineToCircleFit" value="50"/>
+        <Param name="VideoCalibrationReady" value="0"/>
+        <Param name="ThresholdTableMode" value="2"/>
+        <Param name="EnableLEDs" value="1"/>
+        <Param name="ResetCalibration" value="0"/>
+        <Param name="FocalLength" value="0.00854952"/>
+        <Param name="RadialParam1" value="0.239544"/>
+        <Param name="RadialParam2" value="-0.264997"/>
+        <Param name="Reboot" value="0"/>
+      </ParamList>
+      <ParamList name="8375">
+        <Param name="Name" value=""/>
+        <Param name="Id" value="8375"/>
+        <Param name="UserId" value="7"/>
+        <Param name="Enabled" value="1"/>
+        <Param name="Strobe" value="1"/>
+        <Param name="Threshold" value="0.5"/>
+        <Param name="Gain" value="1"/>
+        <Param name="Greyscale" value="0"/>
+        <Param name="EnableWindowedFrameRates" value="1"/>
+        <Param name="CentroidTrackingEnable" value="0"/>
+        <Param name="CentroidTrackingMarkerVelocity" value="5"/>
+        <Param name="Focus" value="0"/>
+        <Param name="Aperture" value="0.5"/>
+        <Param name="Zoom" value="2.122e-314"/>
+        <Param name="Pan" value="0.5"/>
+        <Param name="Tilt" value="0.5"/>
+        <Param name="Connected" value="1"/>
+        <Param name="SyncMaster" value="0"/>
+        <Param name="Warning" value=""/>
+        <Param name="ContributingCentroids" value="1"/>
+        <Param name="ContributingGreyscale" value="1"/>
+        <Param name="ContributingTracks" value="0"/>
+        <Param name="Type" value="Mx-F20"/>
+        <Param name="DisplayType" value="MX F20"/>
+        <Param name="StrobeType" value="Near IR"/>
+        <Param name="StrobeTemperature" value="0"/>
+        <Param name="SensorWidth" value="1600"/>
+        <Param name="SensorHeight" value="1280"/>
+        <Param name="Revision" value="1"/>
+        <Param name="MACAddress" value="00:00:37:00:20:b7"/>
+        <Param name="IPAddress" value="192.168.10.15"/>
+        <Param name="StreamDestinationAddress" value="Default"/>
+        <Param name="StreamDestinationAddressCheck" value="1"/>
+        <Param name="FirmwareVersion" value="79"/>
+        <Param name="FirmwareComplete" value="1"/>
+        <Param name="BackFocus" value="0"/>
+        <Param name="MinRatio" value="0.5"/>
+        <Param name="MaxPixelsPerLineToCircleFit" value="50"/>
+        <Param name="VideoCalibrationReady" value="0"/>
+        <Param name="ThresholdTableMode" value="2"/>
+        <Param name="EnableLEDs" value="1"/>
+        <Param name="ResetCalibration" value="0"/>
+        <Param name="FocalLength" value="0.00856797"/>
+        <Param name="RadialParam1" value="0.248014"/>
+        <Param name="RadialParam2" value="-0.307435"/>
+        <Param name="Reboot" value="0"/>
+      </ParamList>
+      <ParamList name="8378">
+        <Param name="Name" value=""/>
+        <Param name="Id" value="8378"/>
+        <Param name="UserId" value="9"/>
+        <Param name="Enabled" value="1"/>
+        <Param name="Strobe" value="1"/>
+        <Param name="Threshold" value="0.5"/>
+        <Param name="Gain" value="1"/>
+        <Param name="Greyscale" value="0"/>
+        <Param name="EnableWindowedFrameRates" value="1"/>
+        <Param name="CentroidTrackingEnable" value="0"/>
+        <Param name="CentroidTrackingMarkerVelocity" value="5"/>
+        <Param name="Focus" value="0"/>
+        <Param name="Aperture" value="0.5"/>
+        <Param name="Zoom" value="2.122e-314"/>
+        <Param name="Pan" value="0.5"/>
+        <Param name="Tilt" value="0.5"/>
+        <Param name="Connected" value="1"/>
+        <Param name="SyncMaster" value="0"/>
+        <Param name="Warning" value=""/>
+        <Param name="ContributingCentroids" value="1"/>
+        <Param name="ContributingGreyscale" value="1"/>
+        <Param name="ContributingTracks" value="0"/>
+        <Param name="Type" value="Mx-F20"/>
+        <Param name="DisplayType" value="MX F20"/>
+        <Param name="StrobeType" value="Near IR"/>
+        <Param name="StrobeTemperature" value="0"/>
+        <Param name="SensorWidth" value="1600"/>
+        <Param name="SensorHeight" value="1280"/>
+        <Param name="Revision" value="1"/>
+        <Param name="MACAddress" value="00:00:37:00:20:ba"/>
+        <Param name="IPAddress" value="192.168.10.19"/>
+        <Param name="StreamDestinationAddress" value="Default"/>
+        <Param name="StreamDestinationAddressCheck" value="1"/>
+        <Param name="FirmwareVersion" value="79"/>
+        <Param name="FirmwareComplete" value="1"/>
+        <Param name="BackFocus" value="0"/>
+        <Param name="MinRatio" value="0.5"/>
+        <Param name="MaxPixelsPerLineToCircleFit" value="50"/>
+        <Param name="VideoCalibrationReady" value="0"/>
+        <Param name="ThresholdTableMode" value="2"/>
+        <Param name="EnableLEDs" value="1"/>
+        <Param name="ResetCalibration" value="0"/>
+        <Param name="FocalLength" value="0.00854776"/>
+        <Param name="RadialParam1" value="0.220217"/>
+        <Param name="RadialParam2" value="-0.244415"/>
+        <Param name="Reboot" value="0"/>
+      </ParamList>
+      <ParamList name="8381">
+        <Param name="Name" value=""/>
+        <Param name="Id" value="8381"/>
+        <Param name="UserId" value="4"/>
+        <Param name="Enabled" value="1"/>
+        <Param name="Strobe" value="1"/>
+        <Param name="Threshold" value="0.5"/>
+        <Param name="Gain" value="1"/>
+        <Param name="Greyscale" value="0"/>
+        <Param name="EnableWindowedFrameRates" value="1"/>
+        <Param name="CentroidTrackingEnable" value="0"/>
+        <Param name="CentroidTrackingMarkerVelocity" value="5"/>
+        <Param name="Focus" value="0"/>
+        <Param name="Aperture" value="0.5"/>
+        <Param name="Zoom" value="2.122e-314"/>
+        <Param name="Pan" value="0.5"/>
+        <Param name="Tilt" value="0.5"/>
+        <Param name="Connected" value="1"/>
+        <Param name="SyncMaster" value="0"/>
+        <Param name="Warning" value=""/>
+        <Param name="ContributingCentroids" value="1"/>
+        <Param name="ContributingGreyscale" value="1"/>
+        <Param name="ContributingTracks" value="0"/>
+        <Param name="Type" value="Mx-F20"/>
+        <Param name="DisplayType" value="MX F20"/>
+        <Param name="StrobeType" value="Near IR"/>
+        <Param name="StrobeTemperature" value="0"/>
+        <Param name="SensorWidth" value="1600"/>
+        <Param name="SensorHeight" value="1280"/>
+        <Param name="Revision" value="1"/>
+        <Param name="MACAddress" value="00:00:37:00:20:bd"/>
+        <Param name="IPAddress" value="192.168.10.12"/>
+        <Param name="StreamDestinationAddress" value="Default"/>
+        <Param name="StreamDestinationAddressCheck" value="1"/>
+        <Param name="FirmwareVersion" value="79"/>
+        <Param name="FirmwareComplete" value="1"/>
+        <Param name="BackFocus" value="0"/>
+        <Param name="MinRatio" value="0.5"/>
+        <Param name="MaxPixelsPerLineToCircleFit" value="50"/>
+        <Param name="VideoCalibrationReady" value="0"/>
+        <Param name="ThresholdTableMode" value="2"/>
+        <Param name="EnableLEDs" value="1"/>
+        <Param name="ResetCalibration" value="0"/>
+        <Param name="FocalLength" value="0.00855363"/>
+        <Param name="RadialParam1" value="0.236247"/>
+        <Param name="RadialParam2" value="-0.287486"/>
+        <Param name="Reboot" value="0"/>
+      </ParamList>
+      <ParamList name="8383">
+        <Param name="Name" value=""/>
+        <Param name="Id" value="8383"/>
+        <Param name="UserId" value="2"/>
+        <Param name="Enabled" value="1"/>
+        <Param name="Strobe" value="1"/>
+        <Param name="Threshold" value="0.5"/>
+        <Param name="Gain" value="1"/>
+        <Param name="Greyscale" value="0"/>
+        <Param name="EnableWindowedFrameRates" value="1"/>
+        <Param name="CentroidTrackingEnable" value="0"/>
+        <Param name="CentroidTrackingMarkerVelocity" value="5"/>
+        <Param name="Focus" value="0"/>
+        <Param name="Aperture" value="0.5"/>
+        <Param name="Zoom" value="2.122e-314"/>
+        <Param name="Pan" value="0.5"/>
+        <Param name="Tilt" value="0.5"/>
+        <Param name="Connected" value="1"/>
+        <Param name="SyncMaster" value="0"/>
+        <Param name="Warning" value=""/>
+        <Param name="ContributingCentroids" value="1"/>
+        <Param name="ContributingGreyscale" value="1"/>
+        <Param name="ContributingTracks" value="0"/>
+        <Param name="Type" value="Mx-F20"/>
+        <Param name="DisplayType" value="MX F20"/>
+        <Param name="StrobeType" value="Near IR"/>
+        <Param name="StrobeTemperature" value="0"/>
+        <Param name="SensorWidth" value="1600"/>
+        <Param name="SensorHeight" value="1280"/>
+        <Param name="Revision" value="1"/>
+        <Param name="MACAddress" value="00:00:37:00:20:bf"/>
+        <Param name="IPAddress" value="192.168.10.10"/>
+        <Param name="StreamDestinationAddress" value="Default"/>
+        <Param name="StreamDestinationAddressCheck" value="1"/>
+        <Param name="FirmwareVersion" value="79"/>
+        <Param name="FirmwareComplete" value="1"/>
+        <Param name="BackFocus" value="0"/>
+        <Param name="MinRatio" value="0.5"/>
+        <Param name="MaxPixelsPerLineToCircleFit" value="50"/>
+        <Param name="VideoCalibrationReady" value="0"/>
+        <Param name="ThresholdTableMode" value="2"/>
+        <Param name="EnableLEDs" value="1"/>
+        <Param name="ResetCalibration" value="0"/>
+        <Param name="FocalLength" value="0.00859921"/>
+        <Param name="RadialParam1" value="0.277967"/>
+        <Param name="RadialParam2" value="-0.376822"/>
+        <Param name="Reboot" value="0"/>
+      </ParamList>
+    </ParamListGroup>
+  </ParamDefinitionList>
+
+  <ParamDefinitionList name="MXNet">
+    <ParamListGroup name="">
+      <ParamList name="33562754">
+        <Param name="Name" value=""/>
+        <Param name="Type" value="MX Ultranet"/>
+        <Param name="Id" value="33562754"/>
+        <Param name="UserId" value="1"/>
+        <Param name="State" value="Ok"/>
+        <Param name="Enabled" value="1"/>
+        <Param name="SyncMaster" value="1"/>
+        <Param name="GenlockEnabled" value="0"/>
+        <Param name="GenlockSource" value="2"/>
+        <Param name="GenlockStandard" value="0"/>
+        <Param name="GenlockStatus" value="None"/>
+        <Param name="TimecodeEnabled" value="0"/>
+        <Param name="TimecodeSource" value="8"/>
+        <Param name="TimecodeDropFrame"/>
+        <Param name="TimecodeStandard" value="0"/>
+        <Param name="TimecodeStatus" value="None"/>
+        <Param name="MaxGPO" value="4"/>
+        <Param name="GPOPin1"/>
+        <Param name="GPOPin2"/>
+        <Param name="GPOPin3"/>
+        <Param name="GPOPin4"/>
+        <Param name="GPOPin5"/>
+        <Param name="GPOPin6"/>
+        <Param name="GPOPin7"/>
+        <Param name="GPOPin8"/>
+        <Param name="MACAddress" value="00:00:37:00:20:82"/>
+        <Param name="IPAddress" value="192.168.10.21"/>
+        <Param name="FirmwareVersion" value="79"/>
+        <Param name="FirmwareComplete" value="1"/>
+        <Param name="Reboot" value="0"/>
+      </ParamList>
+      <ParamList name="33562755">
+        <Param name="Name" value=""/>
+        <Param name="Type" value="MX Ultranet"/>
+        <Param name="Id" value="33562755"/>
+        <Param name="UserId" value="0"/>
+        <Param name="State" value="Ok"/>
+        <Param name="Enabled" value="1"/>
+        <Param name="SyncMaster" value="0"/>
+        <Param name="GenlockEnabled" value="0"/>
+        <Param name="GenlockSource" value="2"/>
+        <Param name="GenlockStandard" value="0"/>
+        <Param name="GenlockStatus" value="None"/>
+        <Param name="TimecodeEnabled" value="0"/>
+        <Param name="TimecodeSource" value="8"/>
+        <Param name="TimecodeDropFrame"/>
+        <Param name="TimecodeStandard" value="0"/>
+        <Param name="TimecodeStatus" value="None"/>
+        <Param name="MaxGPO" value="4"/>
+        <Param name="GPOPin1"/>
+        <Param name="GPOPin2"/>
+        <Param name="GPOPin3"/>
+        <Param name="GPOPin4"/>
+        <Param name="GPOPin5"/>
+        <Param name="GPOPin6"/>
+        <Param name="GPOPin7"/>
+        <Param name="GPOPin8"/>
+        <Param name="MACAddress" value="00:00:37:00:20:83"/>
+        <Param name="IPAddress" value="192.168.10.20"/>
+        <Param name="FirmwareVersion" value="79"/>
+        <Param name="FirmwareComplete" value="1"/>
+        <Param name="Reboot" value="0"/>
+      </ParamList>
+    </ParamListGroup>
+  </ParamDefinitionList>
+
+  <ParamDefinitionList name="Mk6System">
+    <ParamListGroup name="">
+      <ParamList name="">
+        <Param name="GenlockStandard" value="0"/>
+        <Param name="FrameRate" value="1200"/>
+        <Param name="ActualFrameRate" value="1200"/>
+        <Param name="MasterSelect" value="0"/>
+        <Param name="Warning" value=""/>
+        <Param name="BufferSize" value="250"/>
+        <Param name="BufferSizeRatio" value="0.5"/>
+        <Param name="Rewind" value="0"/>
+        <Param name="RebootAll" value="0"/>
+        <Param name="RealTimeBufferSize" value="20"/>
+        <Param name="MinimizeLatency" value="0"/>
+      </ParamList>
+    </ParamListGroup>
+  </ParamDefinitionList>
+
+  <ParamDefinitionList name="PC">
+    <ParamListGroup name="">
+      <ParamList name="PC">
+        <Param name="UniqueName" value="505pc-PC"/>
+        <Param name="HostName"/>
+        <Param name="Workgroup"/>
+        <Param name="IPAddress"/>
+      </ParamList>
+    </ParamListGroup>
+  </ParamDefinitionList>
+
+  <ParamDefinitionList name="RTKParameters">
+    <ParamListGroup name="">
+      <ParamList name="">
+        <Param name="ProcessingLevel" value="2"/>
+        <Param name="EnableGreyscaleCircleFitter" value="0"/>
+        <Param name="GreyscaleFitMethod" value="0"/>
+        <Param name="GreyscaleFastFitThreshold" value="0.6"/>
+        <Param name="CircleQualityThreshold" value="0.3"/>
+        <Param name="CircleIntensityThreshold" value="0.3"/>
+        <Param name="MinGreyscaleCircleDiameter" value="2"/>
+        <Param name="MaxGreyscaleCircleDiameter" value="100"/>
+        <Param name="EnableBXBlobExtraction" value="0"/>
+        <Param name="MinRadius" value="2"/>
+        <Param name="MaxRadius" value="16"/>
+        <Param name="S1_Grey" value="30"/>
+        <Param name="S1_Pass" value="80"/>
+        <Param name="S2_Grey" value="30"/>
+        <Param name="S2_Pass" value="98"/>
+        <Param name="FindBlack" value="1"/>
+        <Param name="FindWhite" value="1"/>
+        <Param name="EnableVideoCentroidExtraction" value="0"/>
+        <Param name="CentroidSpeed" value="12.5"/>
+        <Param name="ReconstructionRayNoiseFactor" value="3"/>
+        <Param name="ReconstructionCameraNoiseFactor" value="3"/>
+        <Param name="ReconstructionEnvironmentalDriftTolerance" value="0"/>
+        <Param name="TrajectoryTrackingMinRaysToStartTrajectory" value="3"/>
+        <Param name="ReconstructionMinCams" value="2"/>
+        <Param name="ReconstructionReconMinSeparation" value="14"/>
+        <Param name="ReconstructionDiscourageRayChangeFactor" value="0"/>
+        <Param name="ReconstructionRadiusSD" value="0"/>
+        <Param name="ReconstructionPredictionMatchFactor" value="2"/>
+        <Param name="ReconstructionMinReconstructionRadius" value="0"/>
+        <Param name="ReconstructionMaxReconstructionRadius" value="1.79769e+308"/>
+        <Param name="ReconstructionMinCentroidDiameter" value="0"/>
+        <Param name="ReconstructionMaxCentroidDiameter" value="100"/>
+        <Param name="ReconstructionMaxIterations" value="5"/>
+        <Param name="ReconstructionRealTime" value="0"/>
+        <Param name="ReconstructionNumThreads" value="1"/>
+        <Param name="TrajectoryTrackingPredictionError_rev2" value="160"/>
+        <Param name="TrajectoryTrackingStartupError_rev2" value="160"/>
+        <Param name="UseRTTrajectoriser" value="1"/>
+        <Param name="EnableObjectTracker" value="0"/>
+        <Param name="ReprojectionThreshold" value="1.5"/>
+        <Param name="MinimumReconSeparation" value="10"/>
+        <Param name="UseSingleViewBoot" value="0"/>
+        <Param name="FilterOn" value="0"/>
+        <Param name="FilterWindow" value="3"/>
+        <Param name="MotionModelEnabled" value="0"/>
+        <Param name="ActivateClubTracker" value="0"/>
+        <Param name="UseVelocityTrack" value="0"/>
+        <Param name="HistogramPath"/>
+        <Param name="EnableGolfBallLabeller" value="0"/>
+        <Param name="TeeRadius" value="500"/>
+        <Param name="ReconRadius" value="8"/>
+        <Param name="MaxRestingVelocity" value="1000"/>
+        <Param name="MaxDriveVelocity" value="100000"/>
+        <Param name="CameraHealthCheckingEnabled" value="0"/>
+        <Param name="CameraHealthCheckingFrequency" value="10"/>
+        <Param name="LabellingEnabled" value="1"/>
+        <Param name="LabellingNumThreads" value="0"/>
+        <Param name="LabellingFixedExtraMarkerSlack" value="2"/>
+        <Param name="LabellingPropMarkerSlack" value="0.05"/>
+        <Param name="LabellingFixedMarkerRecalibrateSlack" value="6"/>
+        <Param name="LabellingPropMarkerRecalibrateSlack" value="0"/>
+        <Param name="LabellingPropJointLimitSlack" value="0.0251189"/>
+        <Param name="LabellingFixedJointPlacementSlack" value="2.8"/>
+        <Param name="LabellingStartBeta" value="0.28"/>
+        <Param name="LabellingEntranceThreshold" value="0.92"/>
+        <Param name="LabellingExitThreshold" value="0.5"/>
+        <Param name="LabellingBetaRatio" value="1.15755"/>
+        <Param name="LabellingMaxIterations" value="258"/>
+        <Param name="LabellingLabelAsynchronously" value="1"/>
+        <Param name="LabellingRealTime" value="1"/>
+        <Param name="LabellingMinTrajectoryLengthToLabel" value="5"/>
+        <Param name="SubchainWatchdogFraction" value="0"/>
+        <Param name="FingerDistance" value="0"/>
+        <Param name="FingerMaxRange" value="0"/>
+        <Param name="IntrusiveWatchdogCount" value="0"/>
+        <Param name="IntrusiveWatchdogDepth" value="0"/>
+        <Param name="IntrusiveWatchdogAcceptanceRatio" value="0.9"/>
+        <Param name="KinFittingXTolerance" value="1e-006"/>
+        <Param name="KinFittingFTolerance" value="0.0001"/>
+        <Param name="KinFittingGTolerance" value="0.02"/>
+        <Param name="KinFittingMaxIterations" value="6"/>
+        <Param name="KinFittingRestImportance" value="1"/>
+        <Param name="KinFittingLsqrXTolerance" value="1e-005"/>
+        <Param name="KinFittingLsqrFTolerance" value="0.5"/>
+        <Param name="KinFittingLsqrMaxIterations" value="2"/>
+        <Param name="KinFittingNumThreads" value="0"/>
+        <Param name="RestImportancePeriod" value="0"/>
+        <Param name="TrajEntranceFilter" value="0"/>
+        <Param name="TrajExitFilter" value="0"/>
+        <HeuristicParamList name="">
+          <Param name="MarkerSpeed" value="5"/>
+          <Param name="LabelRigidity" value="2"/>
+          <Param name="Quality" value="2"/>
+          <Param name="Intersection" value="4"/>
+          <Param name="MinSeparation" value="0.014"/>
+        </HeuristicParamList>
+      </ParamList>
+    </ParamListGroup>
+  </ParamDefinitionList>
+
+</ParamStore>
